@@ -1,0 +1,2 @@
+rootProject.name='CountOnMe'
+include ':app'
